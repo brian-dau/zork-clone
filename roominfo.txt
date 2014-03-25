@@ -1,50 +1,18 @@
 00
-You see a room. The room is terrifying.
-01
-You see a room.
-02
-You see a room with green walls.
-03
-You see a room with a sword on the wall.
-04
-You see a room.
-10
-You see a room with blue walls.
-11
-You see a room with a poster on the wall.
-12
-You see a room with a window.
-13
-You see a brightly lit room.
-14
 You see a room with a table and chair in the middle.
-20
-You see a room with a dog.
-21
-You see a desk in the middle of the room.
-22
-This looks like the room you started in.
-23
-You see an ornate lantern protruding from the wall. You hear the click of the doors locking shut!
-24
-You see a room.
-30
+01
 You see a room with a painting on the wall.
-31
-You see a room with a small stove in the corner.
-32
-You see a room with a bed.
-33
-You see a room.
-34
-You see a room with a control panel.
-40
-You see a room with a set of keys on the wall.
-41
-You see a room.
-42
-You see a room with a ghost.
-43
-You see a room with a mirror.
-44
-You see a room with an old man sitting on a chair.
+02
+You see a room with an old man sitting in a rocking chair.
+10
+You see a brightly lit room with a lantern on the wall.
+11
+This looks like the room you started in.
+12
+You see a room with an old desk covered in dust.
+20
+You see a room with a ghost hovering near the ceiling.
+21
+You see a room with a crest on the wall.
+22
+You see a room with an ornately decorated door carved into the stone wall.
